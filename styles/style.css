@@ -1,0 +1,44 @@
+html {
+    font-size: 10px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */ 
+    font-family: "Satisfy", cursive; /* este deve ser o nome da fonte que você obteve no Google Fonts */ 
+}
+
+h1{
+    border: 5px solid black;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+h2{
+    font-size: 45px;
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+p, li{
+      font-size: 25px;
+      line-height: 2;
+      letter-spacing: 1px;
+}
+
+html {
+    background-color: lightgreen;
+}
+
+body{
+    border: 5px solid black;
+    background-color: lightskyblue;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+img{
+    width: 400px;
+    margin: 0 auto;
+    display: block;
+}
